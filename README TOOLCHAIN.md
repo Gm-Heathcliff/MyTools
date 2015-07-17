@@ -6,11 +6,11 @@ After that place BitmapListGenerator.bat from my git in your new bmp folder and 
 
 After that place  MyTexturesGenerator.bat from my git in your new bmp folder and run it .
 
-After that use Notepad (https://notepad-plus-plus.org/) and the search and replace funtion and search for this Character "
+After that use Notepad (https://notepad-plus-plus.org/) and then search and replace funtion and search for this Character "
 
 and replace with an empty fiel (no space)!
 
-Save it and put it into your Browedit/data direction ! be sure to use my desktopconfig for browedit in your browedit/data/configs Direction! or customize your own :)
+Save it and put it into your Browedit/data direction ! be sure to use my desktopconfig (and link your grfs in it) for browedit in your browedit/data/configs Direction! or customize your own :)
 
 after that pack your bitmap folder with the path i written above into an grf and put it in your ro or grf resource area!
 
