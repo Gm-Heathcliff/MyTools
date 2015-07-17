@@ -1,1 +1,1 @@
-xcopy MyTexturesNewAdd MyTextures 
+xcopy MyTexturesNewAdd MyTextures /e
