@@ -13,3 +13,9 @@ and replace with an empty fiel (no space)!
 Save it and put it into your Browedit/data direction ! be sure to use my desktopconfig for browedit in your browedit/data/configs Direction! or customize your own :)
 
 after that pack your bitmap folder with the path i written above into an grf and put it in your ro or grf resource area!
+
+
+
+
+
+the Readout.bat can be used for all file endings !
