@@ -39,3 +39,8 @@ If you want to put in the new Textures use Mergetxt.bat for new generated lists 
 
 
 ALL in ALL looks a bit weird and iam actually Working on it ( so some not perfect parts ) but if you understand how it works your workflow is quit awesome and the sorted massive amounts of textures will give you an really nice advantage in your Mapping results !
+
+
+
+all the same works for Models : you just have to convert files with 3ds and sometools like in the guides you find in the linklist ! 
+
