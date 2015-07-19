@@ -21,14 +21,14 @@ after that pack your bitmap folder with the path i written above into an grf and
 the Readout.bat can be used for all file endings !
 
 
-SC= Single Converted
 
 
 for better sort of folders you can edit my mytexturesgenerator.bat
 
 like these 
 
-FOR /f %%i IN (bmp.txt) DO echo custom/MyTextures/MyGameTextures/WoW/%%i"|MyTextures/MyGameTextures/WoW/%%i" >> MyGameTextures.txt
+FOR /f %%i IN (bmp.txt) DO echo custom/MyTextures/MyTexturesGames/YOURGAME/%%i"|MyTextures/MyTexturesGames/YOURGAME/%%i" >> MyTexturesGames.txt  (stay with one MyTexturesGames.txt for an better overlook!)
 
+JUST USE ONE MYTEXTURES GENERATOR PER FOLDER !
 
-If you want to put in the new Mygame Textures.txt use Mergetxt.bat!
+If you want to put in the new Textures use Mergetxt.bat for new generated lists for not loosing other entrys!
