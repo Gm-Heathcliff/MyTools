@@ -1,1 +1,1 @@
-xcopy MyGroundsNewAdd MyGrounds /e
+xcopy MyOtherTexturesNewAdd MyOtherTextures /e
