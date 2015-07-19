@@ -19,3 +19,6 @@ after that pack your bitmap folder with the path i written above into an grf and
 
 
 the Readout.bat can be used for all file endings !
+
+
+SC= Single Converted
