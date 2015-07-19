@@ -22,3 +22,13 @@ the Readout.bat can be used for all file endings !
 
 
 SC= Single Converted
+
+
+for better sort of folders you can edit my mytexturesgenerator.bat
+
+like these 
+
+FOR /f %%i IN (bmp.txt) DO echo custom/MyTextures/MyGameTextures/WoW/%%i"|MyTextures/MyGameTextures/WoW/%%i" >> MyGameTextures.txt
+
+
+If you want to put in the new Mygame Textures.txt use Mergetxt.bat!
