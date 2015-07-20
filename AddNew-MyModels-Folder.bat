@@ -1,2 +1,2 @@
 @echo off
-md MyModelsNewAdd
+md MyModelsNew
