@@ -1,2 +1,2 @@
 @echo off
-md MyFloorsNewAdd
+md MyFloorsNew
