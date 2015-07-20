@@ -44,3 +44,4 @@ ALL in ALL looks a bit weird and iam actually Working on it ( so some not perfec
 
 all the same works for Models : you just have to convert files with 3ds and sometools like in the guides you find in the linklist ! 
 
+Path to Build is data/texture/myTextures/my***textures/ and place there your bmp and pack it in grf started by data path!!!
