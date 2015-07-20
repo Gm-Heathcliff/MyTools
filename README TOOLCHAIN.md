@@ -6,7 +6,7 @@ After that place BitmapListGenerator.bat from my git in your new bmp folder and 
 
 After that place any of MyTexturesGenerator batch files from my git in your new bmp folder and run it .
 
-After that use Notepad (https://notepad-plus-plus.org/) and then search and replace funtion and search for this Character "
+After that use Notepad (https://notepad-plus-plus.org/) and then search and replace funtion and search for this Character " and you have to replace the ".bmp " with just ."bmp"
 
 and replace with an empty fiel (no space)!
 
