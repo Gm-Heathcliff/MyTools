@@ -1,1 +1,1 @@
-FOR /f %%i IN (bmp.txt) DO echo MyTextures/MyOtherTextures/%%i"|MyTextures\MyOtherTextures\%%i" >> MyOtherTextures.txt
+FOR /f %%i IN (bmp.txt) DO echo MyOtherTextures/%%i"|MyTextures\MyOtherTextures\%%i">> MyOtherTextures.txt
