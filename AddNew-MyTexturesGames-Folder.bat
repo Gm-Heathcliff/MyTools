@@ -1,2 +1,2 @@
 @echo off
-md MyTexturesGamesNewAdd
+md MyTexturesGamesNew
