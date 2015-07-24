@@ -7,6 +7,7 @@ cd %1
 mkdir data
 cd data
 mkdir Texture
+mkdir Model
 cd Texture
 mkdir MyTextures
 cd MyTextures
@@ -14,6 +15,7 @@ mkdir MyTexturesGames
 mkdir MyFloors
 mkdir MyWalls
 mkdir MyOtherTextures
+
 cd..
 cd..
 goto :eof
